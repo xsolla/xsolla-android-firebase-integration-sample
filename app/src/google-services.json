@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934760879614",
+    "project_id": "fir-androidtestproject-f0704",
+    "storage_bucket": "fir-androidtestproject-f0704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934760879614:android:9c18ad894ff35350b35caf",
+        "android_client_info": {
+          "package_name": "com.xsolla.androidsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9CprEJgBvF6cJNHs_-rmaOhiaZQRtlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
